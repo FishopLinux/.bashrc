@@ -8,6 +8,4 @@ Pour installer ce projet, suivez les étapes ci-dessous :
 
 ## Dépendances
 
-Ce projet dépend de **Paru**, un gestionnaire de paquets pour Arch Linux. Vous pouvez l'installer en suivant les instructions sur leur dépôt GitHub :
-
-- **Paru** : [Paru sur GitHub](https://github.com/Morganamilo/paru)
+Ce projet dépend de **Paru**, un gestionnaire de paquets pour Arch Linux : https://github.com/Morganamilo/paru
