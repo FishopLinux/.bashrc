@@ -6,6 +6,6 @@
 
 ## Dépendances
 
-Ce projet dépend de **Paru**, un gestionnaire de paquets pour Arch Linux : https://github.com/Morganamilo/paru
+**Paru**, un gestionnaire de paquets pour Arch Linux : https://github.com/Morganamilo/paru
 
-'pip install timer-cli' (https://github.com/1Blademaster/timer-cli)
+pip install timer-cli (https://github.com/1Blademaster/timer-cli)
